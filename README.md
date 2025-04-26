@@ -2,6 +2,3 @@
 
 Code for “grapholita molesta Design and Implementation of a Knowledge Graph Question and Answer System
 
-进行一次修改
-
-修改
