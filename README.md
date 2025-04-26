@@ -2,7 +2,7 @@
 
 Code for “grapholita molesta Design and Implementation of a Knowledge Graph Question and Answer System
 
-myKBQA is the back-end code, qa_demo is the front-end code
+Where “myKBQA” is the back-end code and “qa_demo” is the front-end code.
 
 
 
